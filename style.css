@@ -1,0 +1,33 @@
+body{
+    background-color: yellow;
+}
+label{
+    border:2px solid black;
+    margin-left:20px;
+    background-color: beige;
+}
+b{
+    padding-left:20px;
+}
+.heading{
+    text-align:center;
+}
+.form{
+    background-color: aqua;
+    margin-top:25px;
+    padding-top:10px;
+}
+.checkboxlabel{
+    margin-left:0px;
+    border:none;
+    background-color: yellow;
+}
+#submit{
+    margin:15px 20px;
+}
+.submittime{
+    font-size:x-large;
+}
+.hiddenpeople{
+    font-size: large;
+}
